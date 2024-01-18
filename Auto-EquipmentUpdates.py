@@ -1,4 +1,4 @@
-# This script automates a documentation process by sending a PUT request that updates a large group of equipment based on User input. Script documents results on excel sheet and in database.
+# This script automates a documentation process by sending PUT requests that update a large group of equipment based on User input. Script documents results on excel sheet and in database:   
 
 import time
 import os
