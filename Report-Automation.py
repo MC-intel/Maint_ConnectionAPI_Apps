@@ -1,4 +1,4 @@
-# This script reads pdf report and updates Maintenance Connection to reflect the report. Script documents results on excel sheet. Automates process for monthly equipment calibration reports.
+# This script reads pdf report and updates Maintenance Connection to reflect the report. Script documents results on excel sheet. Automates process for monthly equipment calibration reports:   
 
 import os
 import time
