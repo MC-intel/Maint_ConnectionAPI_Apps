@@ -1,4 +1,4 @@
-# This script sends a POST request to generate a new Asset in our database. The script allows the user to input custom parameters and streamlines making requests:
+# This script sends a POST request to generate a new Asset in our database. The script allows the user to input custom parameters and streamlines making requests:   
 
 import requests
 import json
