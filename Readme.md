@@ -20,11 +20,11 @@ import pdfminer
 from pdfminer.high_level import extract_text
 
 # Imports: security policies may vary regaurding git modules
-from Maint.Connection-API-Apps.FullScript import process_pdf
-from Maint.Connection-API-Apps.FullScript import extract_pdf
-from Maint.Connection-API-Apps.FullScript import pullFromAPI
-from Maint.Connection-API-Apps.FullScript import updateMC
-from Maint.Connection-API-Apps.FullScript import tfnReport
+from Maint_ConnectionAPI_Apps.FullScript import process_pdf
+from Maint_ConnectionAPI_Apps.FullScript import extract_pdf
+from Maint_ConnectionAPI_Apps.FullScript import pullFromAPI
+from Maint_ConnectionAPI_Apps.FullScript import updateMC
+from Maint_ConnectionAPI_Apps.FullScript import tfnReport
 
 
 # Globals
